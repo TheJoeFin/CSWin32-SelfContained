@@ -1,0 +1,3 @@
+GetWindowLong
+GetDpiForWindow
+GetShellWindow
